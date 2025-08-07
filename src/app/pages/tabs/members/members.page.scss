@@ -1,19 +1,38 @@
-ion-header{
+ion-header {
     background: var(--ion-color-secondary);
-    ion-toolbar{
-        ion-row{
+
+    ion-toolbar {
+        ion-row {
             margin: 0 10px 15px 1px;
-            ion-col{
-                div{
+
+            ion-col {
+                div {
                     border-radius: 10px;
                     background: var(--ion-color-light);
                     color: var(--ion-color-light-contrast);
-                    ion-select{
+
+                    ion-select {
                         font-size: 0.85rem;
                     }
                 }
             }
         }
-        
+
+    }
+}
+
+.md {
+    ion-toolbar {
+        ion-row {
+            margin: 5px;
+        }
+    }
+}
+
+ion-content {
+    ion-list {
+        ion-item-divider {
+            background: transparent;
+        }
     }
 }

@@ -1,0 +1,404 @@
+{
+"members": [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://example.com/photos/user1.jpg",
+    "phone": "+91-9816302334",
+    "gender": "Female",
+    "address": "175 Example Street, City 1, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "CrossFit",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "3412",
+      "discount": "227",
+      "purchaseDate": "2025-07-28",
+      "planExpiryDate": "2025-10-26",
+      "paid": "3185",
+      "dueAmount": "227",
+      "daysRemaining": 79
+    }
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "photo": "https://example.com/photos/user2.jpg",
+    "phone": "+91-9593527334",
+    "gender": "Male",
+    "address": "528 Example Street, City 2, India",
+    "batchTime": "5:00 PM - 6:00 PM",
+    "trainingType": "Cardio",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "2232",
+      "discount": "413",
+      "purchaseDate": "2025-07-26",
+      "planExpiryDate": "2025-10-24",
+      "paid": "1819",
+      "dueAmount": "413",
+      "daysRemaining": 77
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "photo": "https://example.com/photos/user3.jpg",
+    "phone": "+91-9692788110",
+    "gender": "Male",
+    "address": "944 Example Street, City 3, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "Yoga",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "1214",
+      "discount": "208",
+      "purchaseDate": "2025-07-28",
+      "planExpiryDate": "2026-07-28",
+      "paid": "1006",
+      "dueAmount": "0",
+      "daysRemaining": 354
+    }
+  },
+  {
+    "id": 4,
+    "name": "Priya Kumar",
+    "photo": "https://example.com/photos/user4.jpg",
+    "phone": "+91-9809568167",
+    "gender": "Female",
+    "address": "649 Example Street, City 4, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "Strength Training",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "2561",
+      "discount": "374",
+      "purchaseDate": "2025-08-04",
+      "planExpiryDate": "2026-08-04",
+      "paid": "2187",
+      "dueAmount": "374",
+      "daysRemaining": 361
+    }
+  },
+  {
+    "id": 5,
+    "name": "Arjun Reddy",
+    "photo": "https://example.com/photos/user5.jpg",
+    "phone": "+91-9607708107",
+    "gender": "Female",
+    "address": "297 Example Street, City 5, India",
+    "batchTime": "5:00 PM - 6:00 PM",
+    "trainingType": "CrossFit",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "4006",
+      "discount": "154",
+      "purchaseDate": "2025-07-25",
+      "planExpiryDate": "2025-10-23",
+      "paid": "3852",
+      "dueAmount": "154",
+      "daysRemaining": 76
+    }
+  },
+  {
+    "id": 6,
+    "name": "Sara Lee",
+    "photo": "https://example.com/photos/user6.jpg",
+    "phone": "+91-9329952767",
+    "gender": "Male",
+    "address": "253 Example Street, City 6, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Cardio",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "1155",
+      "discount": "124",
+      "purchaseDate": "2025-07-31",
+      "planExpiryDate": "2026-07-31",
+      "paid": "1031",
+      "dueAmount": "124",
+      "daysRemaining": 357
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kunal Mehta",
+    "photo": "https://example.com/photos/user7.jpg",
+    "phone": "+91-9739139613",
+    "gender": "Female",
+    "address": "37 Example Street, City 7, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Yoga",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "4417",
+      "discount": "63",
+      "purchaseDate": "2025-07-22",
+      "planExpiryDate": "2025-10-20",
+      "paid": "4354",
+      "dueAmount": "0",
+      "daysRemaining": 73
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sneha Das",
+    "photo": "https://example.com/photos/user8.jpg",
+    "phone": "+91-9994610997",
+    "gender": "Male",
+    "address": "412 Example Street, City 8, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "CrossFit",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "1188",
+      "discount": "270",
+      "purchaseDate": "2025-07-25",
+      "planExpiryDate": "2026-07-25",
+      "paid": "918",
+      "dueAmount": "270",
+      "daysRemaining": 351
+    }
+  },
+  {
+    "id": 9,
+    "name": "David Miller",
+    "photo": "https://example.com/photos/user9.jpg",
+    "phone": "+91-9666089927",
+    "gender": "Male",
+    "address": "14 Example Street, City 9, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "Cardio",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "3149",
+      "discount": "261",
+      "purchaseDate": "2025-07-30",
+      "planExpiryDate": "2026-07-30",
+      "paid": "2888",
+      "dueAmount": "261",
+      "daysRemaining": 356
+    }
+  },
+  {
+    "id": 10,
+    "name": "Anita Roy",
+    "photo": "https://example.com/photos/user10.jpg",
+    "phone": "+91-9525973731",
+    "gender": "Male",
+    "address": "377 Example Street, City 10, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Pilates",
+    "package": {
+      "plan": "Monthly",
+      "totalAmount": "2177",
+      "discount": "437",
+      "purchaseDate": "2025-07-20",
+      "planExpiryDate": "2025-08-19",
+      "paid": "1740",
+      "dueAmount": "437",
+      "daysRemaining": 11
+    }
+  },
+  {
+    "id": 11,
+    "name": "Rahul Verma",
+    "photo": "https://example.com/photos/user11.jpg",
+    "phone": "+91-9985542958",
+    "gender": "Female",
+    "address": "307 Example Street, City 11, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Pilates",
+    "package": {
+      "plan": "Monthly",
+      "totalAmount": "4452",
+      "discount": "120",
+      "purchaseDate": "2025-07-30",
+      "planExpiryDate": "2025-08-29",
+      "paid": "4332",
+      "dueAmount": "120",
+      "daysRemaining": 21
+    }
+  },
+  {
+    "id": 12,
+    "name": "Emma Watson",
+    "photo": "https://example.com/photos/user12.jpg",
+    "phone": "+91-9272132608",
+    "gender": "Female",
+    "address": "339 Example Street, City 12, India",
+    "batchTime": "5:00 PM - 6:00 PM",
+    "trainingType": "Yoga",
+    "package": {
+      "plan": "Monthly",
+      "totalAmount": "2127",
+      "discount": "13",
+      "purchaseDate": "2025-08-05",
+      "planExpiryDate": "2025-09-04",
+      "paid": "2114",
+      "dueAmount": "13",
+      "daysRemaining": 27
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ravi Teja",
+    "photo": "https://example.com/photos/user13.jpg",
+    "phone": "+91-9681745993",
+    "gender": "Male",
+    "address": "527 Example Street, City 13, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "CrossFit",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "2833",
+      "discount": "358",
+      "purchaseDate": "2025-07-24",
+      "planExpiryDate": "2025-10-22",
+      "paid": "2475",
+      "dueAmount": "0",
+      "daysRemaining": 75
+    }
+  },
+  {
+    "id": 14,
+    "name": "Meera Nair",
+    "photo": "https://example.com/photos/user14.jpg",
+    "phone": "+91-9583848576",
+    "gender": "Male",
+    "address": "977 Example Street, City 14, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Pilates",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "4415",
+      "discount": "72",
+      "purchaseDate": "2025-08-02",
+      "planExpiryDate": "2025-10-31",
+      "paid": "4343",
+      "dueAmount": "0",
+      "daysRemaining": 84
+    }
+  },
+  {
+    "id": 15,
+    "name": "Jason Clarke",
+    "photo": "https://example.com/photos/user15.jpg",
+    "phone": "+91-9973612676",
+    "gender": "Female",
+    "address": "604 Example Street, City 15, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "Cardio",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "4435",
+      "discount": "120",
+      "purchaseDate": "2025-07-30",
+      "planExpiryDate": "2026-07-30",
+      "paid": "4315",
+      "dueAmount": "120",
+      "daysRemaining": 356
+    }
+  },
+  {
+    "id": 16,
+    "name": "Nidhi Singh",
+    "photo": "https://example.com/photos/user16.jpg",
+    "phone": "+91-9516793509",
+    "gender": "Female",
+    "address": "145 Example Street, City 16, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Strength Training",
+    "package": {
+      "plan": "Annual",
+      "totalAmount": "1970",
+      "discount": "421",
+      "purchaseDate": "2025-07-20",
+      "planExpiryDate": "2026-07-20",
+      "paid": "1549",
+      "dueAmount": "421",
+      "daysRemaining": 346
+    }
+  },
+  {
+    "id": 17,
+    "name": "Tom Hardy",
+    "photo": "https://example.com/photos/user17.jpg",
+    "phone": "+91-9792585135",
+    "gender": "Male",
+    "address": "638 Example Street, City 17, India",
+    "batchTime": "6:00 AM - 7:00 AM",
+    "trainingType": "Pilates",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "2029",
+      "discount": "22",
+      "purchaseDate": "2025-08-04",
+      "planExpiryDate": "2025-11-02",
+      "paid": "2007",
+      "dueAmount": "22",
+      "daysRemaining": 86
+    }
+  },
+  {
+    "id": 18,
+    "name": "Ayesha Khan",
+    "photo": "https://example.com/photos/user18.jpg",
+    "phone": "+91-9799571059",
+    "gender": "Male",
+    "address": "402 Example Street, City 18, India",
+    "batchTime": "5:00 PM - 6:00 PM",
+    "trainingType": "Pilates",
+    "package": {
+      "plan": "Monthly",
+      "totalAmount": "2607",
+      "discount": "213",
+      "purchaseDate": "2025-07-18",
+      "planExpiryDate": "2025-08-17",
+      "paid": "2394",
+      "dueAmount": "0",
+      "daysRemaining": 9
+    }
+  },
+  {
+    "id": 19,
+    "name": "Varun Kapoor",
+    "photo": "https://example.com/photos/user19.jpg",
+    "phone": "+91-9710318960",
+    "gender": "Female",
+    "address": "353 Example Street, City 19, India",
+    "batchTime": "7:00 AM - 8:00 AM",
+    "trainingType": "Strength Training",
+    "package": {
+      "plan": "Quarterly",
+      "totalAmount": "3892",
+      "discount": "362",
+      "purchaseDate": "2025-07-30",
+      "planExpiryDate": "2025-10-28",
+      "paid": "3530",
+      "dueAmount": "0",
+      "daysRemaining": 81
+    }
+  },
+  {
+    "id": 20,
+    "name": "Neha Sharma",
+    "photo": "https://example.com/photos/user20.jpg",
+    "phone": "+91-9539598907",
+    "gender": "Male",
+    "address": "560 Example Street, City 20, India",
+    "batchTime": "5:00 PM - 6:00 PM",
+    "trainingType": "Strength Training",
+    "package": {
+      "plan": "Monthly",
+      "totalAmount": "3964",
+      "discount": "334",
+      "purchaseDate": "2025-08-03",
+      "planExpiryDate": "2025-09-02",
+      "paid": "3630",
+      "dueAmount": "0",
+      "daysRemaining": 25
+    }
+  }
+]
+}
