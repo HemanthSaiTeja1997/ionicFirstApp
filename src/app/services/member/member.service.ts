@@ -6,7 +6,7 @@ import { catchError, Observable, throwError } from 'rxjs';
   providedIn: 'root'
 })
 export class MemberService {
-  private baseUrl = 'http://localhost:3000/members/';
+  private baseUrl = 'http://10.46.21.255:3000/members/';
 
 
   constructor(private http:HttpClient) { }
