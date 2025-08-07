@@ -1,11 +1,11 @@
-<ion-card>
+<ion-card *ngFor="let member of listOfMembers">
   <div>
     <ion-item lines="none">
       <ion-thumbnail slot="start">
-        <img src="assets/icon/favicon.png"/>
+        <img [src]="member?.photo"/>
       </ion-thumbnail>
-      <ion-label>Hemanth
-        <p>+91 9652745404</p>
+      <ion-label>{{member?.name}}
+        <p>{{member?.phone}}</p>
       </ion-label>
       <ion-button slot="end" fill="clear">
         <ion-icon name="chevron-forward-circle" slot="icon-only"></ion-icon>
@@ -15,18 +15,19 @@
       <ion-col size="4">
         <div align="start">
           <ion-label color="dark">Plan Expiry </ion-label>
-          <p><ion-text color="dark">01 Jan 2016</ion-text></p>
+          <p><ion-text color="dark">{{member?.package?.planExpiryDate}}</ion-text></p>
         </div>
       </ion-col>
-            <ion-col size="4">
+      <ion-col size="4">
         <div align="start">
           <ion-label color="dark">Days Remaining </ion-label>
-          <p><ion-text color="dark">100</ion-text></p>
+          <p><ion-text color="dark">{{member?.package?.daysRemaining}}</ion-text></p>
         </div>
-      </ion-col>      <ion-col size="4">
+      </ion-col>
+      <ion-col size="4">
         <div align="start">
           <ion-label color="dark">Due Amount</ion-label>
-          <p><ion-text color="dark">$400</ion-text></p>
+          <p><ion-text color="dark">{{member?.package?.dueAmount}}</ion-text></p>
         </div>
       </ion-col>
     </ion-row>

@@ -3,7 +3,7 @@
   {
     "id": 1,
     "name": "John Doe",
-    "photo": "https://example.com/photos/user1.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/41.jpg",
     "phone": "+91-9816302334",
     "gender": "Female",
     "address": "175 Example Street, City 1, India",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "name": "Alice Smith",
-    "photo": "https://example.com/photos/user2.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/42.jpg",
     "phone": "+91-9593527334",
     "gender": "Male",
     "address": "528 Example Street, City 2, India",
@@ -43,7 +43,7 @@
   {
     "id": 3,
     "name": "Bob Johnson",
-    "photo": "https://example.com/photos/user3.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/43.jpg",
     "phone": "+91-9692788110",
     "gender": "Male",
     "address": "944 Example Street, City 3, India",
@@ -63,7 +63,7 @@
   {
     "id": 4,
     "name": "Priya Kumar",
-    "photo": "https://example.com/photos/user4.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
     "phone": "+91-9809568167",
     "gender": "Female",
     "address": "649 Example Street, City 4, India",
@@ -83,7 +83,7 @@
   {
     "id": 5,
     "name": "Arjun Reddy",
-    "photo": "https://example.com/photos/user5.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/45.jpg",
     "phone": "+91-9607708107",
     "gender": "Female",
     "address": "297 Example Street, City 5, India",
@@ -103,7 +103,7 @@
   {
     "id": 6,
     "name": "Sara Lee",
-    "photo": "https://example.com/photos/user6.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/46.jpg",
     "phone": "+91-9329952767",
     "gender": "Male",
     "address": "253 Example Street, City 6, India",
@@ -123,7 +123,7 @@
   {
     "id": 7,
     "name": "Kunal Mehta",
-    "photo": "https://example.com/photos/user7.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/48.jpg",
     "phone": "+91-9739139613",
     "gender": "Female",
     "address": "37 Example Street, City 7, India",
@@ -143,7 +143,7 @@
   {
     "id": 8,
     "name": "Sneha Das",
-    "photo": "https://example.com/photos/user8.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/49.jpg",
     "phone": "+91-9994610997",
     "gender": "Male",
     "address": "412 Example Street, City 8, India",
@@ -163,7 +163,7 @@
   {
     "id": 9,
     "name": "David Miller",
-    "photo": "https://example.com/photos/user9.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/50.jpg",
     "phone": "+91-9666089927",
     "gender": "Male",
     "address": "14 Example Street, City 9, India",
@@ -183,7 +183,7 @@
   {
     "id": 10,
     "name": "Anita Roy",
-    "photo": "https://example.com/photos/user10.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/51.jpg",
     "phone": "+91-9525973731",
     "gender": "Male",
     "address": "377 Example Street, City 10, India",
@@ -203,7 +203,7 @@
   {
     "id": 11,
     "name": "Rahul Verma",
-    "photo": "https://example.com/photos/user11.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/52.jpg",
     "phone": "+91-9985542958",
     "gender": "Female",
     "address": "307 Example Street, City 11, India",
@@ -223,7 +223,7 @@
   {
     "id": 12,
     "name": "Emma Watson",
-    "photo": "https://example.com/photos/user12.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/53.jpg",
     "phone": "+91-9272132608",
     "gender": "Female",
     "address": "339 Example Street, City 12, India",
@@ -243,7 +243,7 @@
   {
     "id": 13,
     "name": "Ravi Teja",
-    "photo": "https://example.com/photos/user13.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/54.jpg",
     "phone": "+91-9681745993",
     "gender": "Male",
     "address": "527 Example Street, City 13, India",
@@ -263,7 +263,7 @@
   {
     "id": 14,
     "name": "Meera Nair",
-    "photo": "https://example.com/photos/user14.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/55.jpg",
     "phone": "+91-9583848576",
     "gender": "Male",
     "address": "977 Example Street, City 14, India",
@@ -283,7 +283,7 @@
   {
     "id": 15,
     "name": "Jason Clarke",
-    "photo": "https://example.com/photos/user15.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/56.jpg",
     "phone": "+91-9973612676",
     "gender": "Female",
     "address": "604 Example Street, City 15, India",
@@ -303,7 +303,7 @@
   {
     "id": 16,
     "name": "Nidhi Singh",
-    "photo": "https://example.com/photos/user16.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/57.jpg",
     "phone": "+91-9516793509",
     "gender": "Female",
     "address": "145 Example Street, City 16, India",
@@ -323,7 +323,7 @@
   {
     "id": 17,
     "name": "Tom Hardy",
-    "photo": "https://example.com/photos/user17.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/58.jpg",
     "phone": "+91-9792585135",
     "gender": "Male",
     "address": "638 Example Street, City 17, India",
@@ -343,7 +343,7 @@
   {
     "id": 18,
     "name": "Ayesha Khan",
-    "photo": "https://example.com/photos/user18.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/59.jpg",
     "phone": "+91-9799571059",
     "gender": "Male",
     "address": "402 Example Street, City 18, India",
@@ -363,7 +363,7 @@
   {
     "id": 19,
     "name": "Varun Kapoor",
-    "photo": "https://example.com/photos/user19.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/60.jpg",
     "phone": "+91-9710318960",
     "gender": "Female",
     "address": "353 Example Street, City 19, India",
@@ -383,7 +383,7 @@
   {
     "id": 20,
     "name": "Neha Sharma",
-    "photo": "https://example.com/photos/user20.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/65.jpg",
     "phone": "+91-9539598907",
     "gender": "Male",
     "address": "560 Example Street, City 20, India",

@@ -3,10 +3,13 @@ border: 1px solid var(--ion-color-secondary);
 border-radius: 15px;
 margin: 2vh 1vh;
 div{
-    margin: 0.8vh 0 0.8vh 1vh;
+    margin: 0.8vh 0.2vh 0.8vh 1vh;
     ion-item{
        --padding-start:0;
         --inner-padding-end:0;
+        img{
+            border-radius: 50%;
+        }
         ion-label{
             font-size: medium;
             font-weight: bold;
@@ -26,6 +29,8 @@ div{
         width: 85%;
         float: inline-end;
         ion-col{
+            display: flex;
+            justify-content: end;
             div{
                 ion-label{
 font-size: 0.75rem;
